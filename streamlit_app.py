@@ -16,6 +16,7 @@ from scripts.similarity.get_score import *
 from scripts.utils import get_filenames_from_dir
 from scripts.utils.logger import init_logging_config
 
+
 # Set page configuration
 st.set_page_config(
     page_title="Resume Matcher",
